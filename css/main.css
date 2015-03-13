@@ -21,14 +21,20 @@ header {
 h1 {
 	color: white;
 	font-size: 1.5rem;
+	margin-top: 0;
+	position: absolute;
+	top: 1rem;
+	left: 13.4rem;
 }
 
 .char {
 	font-size: 4rem;
+	display: block;
 }
 
 .medal {
 	width: 25%;
+	margin: 0 auto;
 }
 
 
