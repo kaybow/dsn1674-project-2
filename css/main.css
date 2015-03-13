@@ -23,12 +23,24 @@ h1 {
 	font-size: 1.5rem;
 	margin-top: 0;
 	position: absolute;
-	top: 2.4rem;
-	left: 13.4rem;
+	top: 2.8rem;
+	left: 0rem;
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+	margin: 0;
+	position: absolute;
+	color: white;
+	bottom: 1em;
+	width: 100%;
 }
 
 footer {
 	text-align: center;
+	background-color: black;
+	padding: 1em;
 }
 
 .char {
@@ -39,6 +51,10 @@ footer {
 .medal {
 	width: 25%;
 	margin: 0 auto;
+}
+
+.banner {
+	position: relative;
 }
 
 
