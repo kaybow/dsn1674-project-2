@@ -62,6 +62,8 @@ footer {
 nav a {
 	text-decoration: none;
 	text-align: left;
+	color: white;
+	background-color: black;
 }
 
 nav li {
@@ -75,6 +77,7 @@ nav ol {
 	padding: 0;
 	margin-bottom: 0;
 	margin-top: 0;
+
 }
 
 
