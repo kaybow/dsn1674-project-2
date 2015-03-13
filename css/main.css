@@ -13,7 +13,7 @@ body{
 }
 
 header {
-	padding: 2em;
+	padding-top: 2em;
 	text-align: center;
 	background-color: red;
 }
@@ -26,6 +26,7 @@ h1 {
 	top: 2.8rem;
 	left: 0rem;
 	width: 100%;
+	text-shadow: #222222 2px 4px 3px;
 }
 
 h2 {
@@ -46,6 +47,7 @@ footer {
 .char {
 	font-size: 4rem;
 	display: block;
+	text-shadow: #222222 2px 4px 3px;
 }
 
 .medal {
@@ -57,7 +59,23 @@ footer {
 	position: relative;
 }
 
+nav a {
+	text-decoration: none;
+	text-align: left;
+}
 
+nav li {
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+	float: left;
+}
+
+nav ol {
+	padding: 0;
+	margin-bottom: 0;
+	margin-top: 0;
+}
 
 
 
