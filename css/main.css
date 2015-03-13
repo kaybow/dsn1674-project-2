@@ -27,6 +27,10 @@ h1 {
 	left: 13.4rem;
 }
 
+footer {
+	text-align: center;
+}
+
 .char {
 	font-size: 4rem;
 	display: block;
@@ -36,6 +40,8 @@ h1 {
 	width: 25%;
 	margin: 0 auto;
 }
+
+
 
 
 
