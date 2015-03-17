@@ -131,6 +131,27 @@ float: left;
 	color: white;
 }
 
+.rooster {
+	background-color: #bc0017;
+	padding-top: 1em;
+	padding-bottom:1em;
+}
 
+.roo {
+	text-align: center;
+	color: white;
+}
 
+.roost-sym {
+	width: 50%;
+	float: left;
+}
 
+.roost {
+	width: 50%;
+	float: right;
+}
+
+.roostfig {
+	color: white;
+}
