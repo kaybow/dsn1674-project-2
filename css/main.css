@@ -38,6 +38,10 @@ h2 {
 	width: 100%;
 }
 
+h3 {
+	text-align: center;
+}
+
 footer {
 	text-align: center;
 	background-color: black;
@@ -86,11 +90,11 @@ nav ol {
 	text-align: center;
 }
 
-.dra {
-	text-align: center;
+figcaption {
+text-align: center;
 }
 
-.dragon, .ox {
+.dragon, .oxen {
 	background-color: #e4c22a;
 	padding-top: 1em;
 	padding-bottom:1em;
@@ -114,7 +118,6 @@ nav ol {
 
 .goa {
 	color: white;
-	text-align: center;
 }
 
 .goat-sym {
@@ -138,7 +141,6 @@ float: left;
 }
 
 .roo {
-	text-align: center;
 	color: white;
 }
 
@@ -152,7 +154,7 @@ float: left;
 	float: right;
 }
 
-.x {
+.ox-img {
 	float: left;
 	width: 50%;
 }
@@ -160,7 +162,7 @@ float: left;
 .ox-sym {
 	float: right;
 	width: 50%;
-	padding-top: 4em;
 }
+
 
 
