@@ -90,7 +90,7 @@ nav ol {
 	text-align: center;
 }
 
-.dragon {
+.dragon, .ox {
 	background-color: #e4c22a;
 	padding-top: 1em;
 	padding-bottom:1em;
@@ -127,7 +127,7 @@ width: 50%;
 float: left;
 }
 
-.goatfig {
+.goatfig, .roostfig {
 	color: white;
 }
 
@@ -152,6 +152,15 @@ float: left;
 	float: right;
 }
 
-.roostfig {
-	color: white;
+.x {
+	float: left;
+	width: 50%;
 }
+
+.ox-sym {
+	float: right;
+	width: 50%;
+	padding-top: 4em;
+}
+
+
