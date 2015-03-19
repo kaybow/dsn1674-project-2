@@ -74,6 +74,8 @@ nav a {
 	color: white;
 	background-color: #222;
 	display: block;
+	padding: 0.5em;
+	padding-left: 1em;
 }
 
 nav li {
@@ -88,7 +90,7 @@ nav ol {
 	padding: 0;
 	margin: 0;
 	list-style-type: none;
-	text-align: center;
+	text-align: left;
 }
 
 figcaption {
