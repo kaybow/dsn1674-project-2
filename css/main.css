@@ -45,7 +45,7 @@ h3 {
 .char {
 	font-size: 4rem;
 	display: block;
-	text-shadow: #222222 2px 4px 3px;
+	text-shadow: #222 2px 4px 3px;
 }
 
 .medal {
@@ -164,7 +164,6 @@ float: left;
 	width: 50%;
 }
 
-
 footer {
 	text-align: center;
 	background-color: #222;
@@ -173,3 +172,6 @@ footer {
 	text-decoration: underline;
 }
 
+h4 {
+	margin: 0;
+}
