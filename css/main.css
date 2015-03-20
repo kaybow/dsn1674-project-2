@@ -23,8 +23,8 @@ h1 {
 	font-size: 1.5rem;
 	margin-top: 0;
 	position: absolute;
-	top: 6rem;
-	left: 3rem;
+	top: 4rem;
+	left: 0rem;
 	width: 100%;
 	text-shadow: #222222 2px 4px 3px;
 }
@@ -43,15 +43,19 @@ h3 {
 }
 
 .char {
-	font-size: 4rem;
+	font-size: 2.5rem;
 	display: block;
 	text-shadow: #222 2px 4px 3px;
 }
 
 .medal {
-	width: 10em;
+	width: 100%;
 	margin: 0 auto;
 	padding-bottom: 2em;
+}
+
+.medal img {
+	width: 150px;
 }
 
 .banner {
